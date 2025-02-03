@@ -22,6 +22,10 @@ particularly in health and convenience products. Regional dynamics show pockets 
 With top customers playing a significant role, a focused retention strategy can amplify profitability. 
 By leveraging these insights, D Mart can optimize operations, boost customer engagement, and drive sustainable sales growth.
 
+#Screenshot:
+---
+<img src="https://github.com/SarthakUdavant/Coffee-Dashboard/blob/main/Coffee%20Sales%20Dashboard.png" alt="myql-logo" width="1000" height="500"/>
+
 
 
 
