@@ -1,5 +1,6 @@
-
-<img src="https://github.com/SarthakUdavant/D-Mart-Sales-Dashboard/blob/main/Screenshot%202025-02-03%20155451.png" alt="myql-logo" width="1000" height="500"/>
+#D Mart Sales Dashboard:
+---
+<img src="https://github.com/SarthakUdavant/D-Mart-Sales-Dashboard/blob/main/d%20mart.jpg" alt="myql-logo" width="1000" height="500"/>
 
 #Key Highlights & Insights:
 ---
@@ -17,6 +18,10 @@ Target Low-Sales Periods: To counteract the early-year sales dip, introduce spec
 Optimize Regional Strategies: Tailor promotions for underperforming regions while maintaining strong supply chains in high-performing locations.
 Enhance Customer Retention: Implement personalized offers for top customers, leveraging purchase history to drive repeat purchases.
 Expand High-Demand Categories: With health drinks and biscuits being top-selling items, expanding these categories with exclusive brands or combos could boost revenue.
+
+#Tools Used:
+---
+<img src="https://github.com/SarthakUdavant/D-Mart-Sales-Dashboard/blob/main/d%20mart.jpg" alt="myql-logo" width="1000" height="500"/>
 
 #Data Story:
 ------
