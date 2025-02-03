@@ -21,7 +21,7 @@ Expand High-Demand Categories: With health drinks and biscuits being top-selling
 
 #Tools Used:
 ---
-<img src="https://github.com/SarthakUdavant/D-Mart-Sales-Dashboard/blob/main/d%20mart.jpg" alt="myql-logo" width="1000" height="500"/>
+<img src="https://github.com/SarthakUdavant/D-Mart-Sales-Dashboard/blob/main/Excel.jpg" alt="myql-logo" width="1000" height="500"/>
 
 #Data Story:
 ------
