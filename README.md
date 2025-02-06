@@ -32,7 +32,7 @@ By leveraging these insights, D Mart can optimize operations, boost customer eng
 
 #Screenshot:
 ---
-<img src="https://github.com/SarthakUdavant/D-Mart-Sales-Dashboard/blob/main/Screenshot%202025-02-03%20155451.png" alt="myql-logo" width="1000" height="500"/>
+<img src="https://github.com/SarthakUdavant/D-Mart-Sales-Dashboard/blob/24f3a1f1ceb3ba7f2ece1fff0236f164c315e71a/Screenshot%202025-02-06%20140130.png" alt="myql-logo" width="1000" height="500"/>
 
 
 
