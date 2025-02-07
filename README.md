@@ -1,6 +1,6 @@
 #D Mart Sales Dashboard:
 ---
-<img src="https://github.com/SarthakUdavant/D-Mart-Sales-Dashboard/blob/main/d%20mart.jpg" alt="myql-logo" width="1000" height="500"/>
+<img src="https://github.com/SarthakUdavant/D-Mart-Sales-Dashboard/blob/322671ee8a5e34567a669aef09946e531fde9c24/dmart-supermarket-business-in-hindi-scaled-1.jpg" alt="myql-logo" width="1000" height="500"/>
 
 #Key Highlights & Insights:
 ---
